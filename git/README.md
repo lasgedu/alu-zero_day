@@ -1,1 +1,1 @@
-another readme fot git
+readme fot git
